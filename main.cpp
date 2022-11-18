@@ -4,7 +4,6 @@ using namespace std;
 int main() {
    float a=0,b=0;
    int opzione=0;
-   cout <<"inserisci i valori"<< endl;
    cin >>a>>b>>opzione;
    switch(opzione){
        case 0:
