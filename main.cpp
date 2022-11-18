@@ -17,5 +17,5 @@ int main() {
            break;
        default:
            cout <<"opzione non valida"<< endl;
-   return 0;
+   } return 0;
 }
